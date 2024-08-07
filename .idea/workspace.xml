@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14bd1379-104d-4b1d-b6b3-7a63452ab911" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase1/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase1/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase1/EjercicioMeses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase1/EscribirPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase1/HolaMundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyecto1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase3/Calificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase3/Matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase3/Promedio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +37,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/solemerino/Sole/SoleMer/cursos/De0a2.0ConJava/de0a2.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.clase1.EscribirPares">
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase1.HolaMundo" />
-      <module name="proyecto1" />
+  <component name="RunManager" selected="Application.Calificaciones">
+    <configuration name="Calificaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase3.Calificaciones" />
+      <module name="de0a2.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase1.*" />
+          <option name="PATTERN" value="clase3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clase1.Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase1.Ejercicio1" />
-      <module name="proyecto1" />
+    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase3.Matriz" />
+      <module name="de0a2.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase1.*" />
+          <option name="PATTERN" value="clase3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clase1.Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase1.Ejercicio2" />
-      <module name="proyecto1" />
+    <configuration name="MatrizEliminar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase3.MatrizEliminar" />
+      <module name="de0a2.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase1.*" />
+          <option name="PATTERN" value="clase3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clase1.EjercicioMeses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase1.EjercicioMeses" />
-      <module name="proyecto1" />
+    <configuration name="clase3.Promedio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase3.Promedio" />
+      <module name="de0a2.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase1.*" />
+          <option name="PATTERN" value="clase3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clase1.EscribirPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase1.EscribirPares" />
-      <module name="proyecto1" />
+    <configuration name="pruebas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase3.pruebas" />
+      <module name="de0a2.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase1.*" />
+          <option name="PATTERN" value="clase3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.clase1.EscribirPares" />
-        <item itemvalue="Application.clase1.EjercicioMeses" />
-        <item itemvalue="Application.clase1.Ejercicio2" />
-        <item itemvalue="Application.clase1.Ejercicio1" />
-        <item itemvalue="Application.HolaMundo" />
+        <item itemvalue="Application.Calificaciones" />
+        <item itemvalue="Application.pruebas" />
+        <item itemvalue="Application.Matriz" />
+        <item itemvalue="Application.MatrizEliminar" />
+        <item itemvalue="Application.clase3.Promedio" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +131,15 @@
       <workItem from="1721421116146" duration="6187000" />
       <workItem from="1721668892057" duration="4547000" />
       <workItem from="1721694509457" duration="8721000" />
+      <workItem from="1721845111354" duration="1912000" />
+      <workItem from="1721870978961" duration="2096000" />
+      <workItem from="1722255124328" duration="11018000" />
+      <workItem from="1722364424590" duration="2375000" />
+      <workItem from="1722427545332" duration="6955000" />
+      <workItem from="1722597653064" duration="1559000" />
+      <workItem from="1722632117661" duration="4363000" />
+      <workItem from="1722863418161" duration="4710000" />
+      <workItem from="1722941604411" duration="14763000" />
     </task>
     <servers />
   </component>
